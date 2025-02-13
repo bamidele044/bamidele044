@@ -26,8 +26,8 @@ Here are some of my recent projects:
 - Big Data and Cloud Technologies: Apache Spark, AWS
 
 ## 📫 Connect with Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bamidele-omotosho04/)  
-- GitHub: [bamidele044](https://github.com/bamidele044)    
+- LinkedIn: [Profile](https://www.linkedin.com/in/bamidele-omotosho04/)  
+- GitHub: [Profile](https://github.com/bamidele044)
 
 Check out my projects on data analytics, NLP, and AI-driven social media analysis! 🚀  
 
