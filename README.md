@@ -15,7 +15,7 @@ Here are some of my recent projects:
 - **[Soil Temperature Prediction](https://github.com/bamidele044/Soil-Temperature-Prediction)** 🌍  
   Used time-series analysis and machine learning techniques to predict soil temperature in Ireland.
 
-- **Mental Health Detection from Social Media Posts** () 🧠  
+- **[Mental Health Detection from Social Media Posts](https://github.com/bamidele044/Detecting-Mental-Health-Issues-Through-Social-Media-Posts-Using-Machine-Learning) 🧠  
   Applying NLP and machine learning to analyze text data and detect mental health indicators.
 
 ## 🛠️ Skills
